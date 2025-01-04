@@ -1,0 +1,1 @@
+This React Native code throws an error because of the usage of a deprecated method. The `fetch` method used to make the API call is deprecated.  It should be replaced with a more modern method like `axios` or a native `XMLHttpRequest`. The solution below shows a working example using Axios.
